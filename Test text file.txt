@@ -1,0 +1,1 @@
+This is a text file designated for testing your new spritz clone program. How is it working? I really hope it works, because that would be awesome. If you made it this far, at least the text reader is somewhat responsive. Great Job!
